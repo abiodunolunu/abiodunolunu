@@ -33,4 +33,4 @@
 ## NPM Packages & Stats
 
 [![NPM Badge](https://img.shields.io/badge/abiodunolunu-cb3837?&style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/~abeydev)
-![npm (by abeydev)](https://img.shields.io/npm-stat/dw/abeydev?style=for-the-badge&logo=npm)
+![npm (by abeydev)](https://img.shields.io/npm-stat/dm/abeydev?style=for-the-badge&logo=npm)
