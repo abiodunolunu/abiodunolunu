@@ -1,6 +1,4 @@
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/abeydev?style=flat&labelColor=%231d9bf0&color=%23000)
-
-# ![X (formerly Twitter) Follow](https://slackmojis.com/emojis/23071-welcome/image/1680405921/welcome.gif) Hello World, I am Abiodun Olunu
+# ![](https://slackmojis.com/emojis/23071-welcome/image/1680405921/welcome.gif) Hello World, I am Abiodun Olunu
 
 ## Frontend Developer
 
